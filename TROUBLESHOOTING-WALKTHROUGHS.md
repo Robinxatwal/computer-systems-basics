@@ -1,16 +1,3 @@
-
----
-
-## 2) Add a second PowerShell script: quick network reset (recommended)
-This one is **real-world IT** and safe.
-
-### Create:
-`/scripts/network-reset.ps1`
-
-Paste this:
-
-```powershell
-<#
 network-reset.ps1
 Basic Windows network reset steps often used for connectivity issues.
 #>
