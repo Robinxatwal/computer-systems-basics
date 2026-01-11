@@ -1,24 +1,21 @@
 # Computer Systems Basics
 
-This repository documents my hands-on learning and reference notes as a Computer Systems Technician, focusing on IT support, operating systems, and networking fundamentals.
+This repository demonstrates practical IT support and computer systems knowledge through documentation, troubleshooting walkthroughs, and PowerShell scripts.
 
-## Topics Covered
-- Windows troubleshooting and maintenance
-- Linux fundamentals and command-line usage
-- Networking basics (IP, DNS, DHCP)
-- Common system issues and practical fixes
+## Skills Demonstrated
+- Windows and Linux fundamentals
+- Network troubleshooting (IP, DNS, DHCP, ports)
+- Command-line tools (ping, ipconfig)
+- PowerShell scripting for system diagnostics
+- Structured troubleshooting methodology
 
-## Why this repository
-I created this repository to:
-- Reinforce my technical fundamentals
-- Build clear documentation for real-world IT problems
-- Maintain a public record of my continuous learning
+## Repository Structure
+- **Windows**: Common issues and fixes
+- **Linux**: Command-line basics and system usage
+- **Networking**: Core concepts and diagnostic tools
+- **Scripts**: PowerShell utilities for IT support
+- **Troubleshooting Walkthroughs**: Real-world IT scenarios
 
-## Tools & Technologies
-- Windows 10 / 11
-- Linux (Ubuntu)
-- Command Line (Bash, PowerShell)
-- Networking concepts
+## Purpose
+This repository serves as a practical portfolio to demonstrate entry-level IT support and computer systems skills.
 
-## Status
-Actively expanding with practical notes and scripts.
