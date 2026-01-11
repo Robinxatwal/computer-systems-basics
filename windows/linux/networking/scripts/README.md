@@ -1,1 +1,0 @@
-scripit ethical phising 
